@@ -1,16 +1,16 @@
 # Test-bot
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
+<u>♥️ 𝙉𝘼𝘿𝙐𝙉 𝙈𝘿 𝙒𝙃𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 ♥️</u>
 </p>
 <p align="center">
 <img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Nadun+MD+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Nadun+MD+whatsapp+Bot" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnadun-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
@@ -29,7 +29,7 @@
 # 
 Queen elisa whatsapp bot is,
 
-      Queen elisa whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      𝙉𝙖𝙙𝙪𝙣 𝙈𝘿 whatsapp bot is an easy to use whatsapp robot.   |  Queen elisa whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -61,9 +61,8 @@ Queen elisa whatsapp bot is,
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
-## [`WATCH YOUTUBE VIDEOS`](youtube.com/MRNIMAOFC)
- 
-  ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
+## [`Deploy කරන්න දන්නෙ නැත්තම් ගෘප් එකට ජොයින් වෙන්න´]
+  ##* [Nadun MD Whatsapp BOT official group ](https://chat.whatsapp.com/K0QjxaWwRdFCByYMYW9rxi)
   
 
    
