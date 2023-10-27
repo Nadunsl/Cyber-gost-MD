@@ -7,7 +7,7 @@
 <img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Nadun+MD+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
@@ -65,17 +65,7 @@ Queen elisa whatsapp bot is,
  
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Railway Video ⇓
- <p align="left">
-<a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Replit Video ⇓
- <p align="left">
-<a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
+
    
    
    
