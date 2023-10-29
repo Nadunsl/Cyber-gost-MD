@@ -1,25 +1,27 @@
-# Nadun MD
+# Cyber gost MD
 
 <p align="center"> 
-<u>♥️ 𝙉𝘼𝘿𝙐𝙉 𝙈𝘿 𝙒𝙃𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙼𝚁.𝙽𝚊𝚍𝚞𝚗 ♥️</u>
+<u>*ঔৣ͜͡҉
+*𝘾𝙮𝙗𝙚𝙧 𝙜𝙤𝙨𝙩 𝙈𝘿 𝙒𝙃𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙼𝚁.𝙽𝚊𝚍𝚞𝚗 *ঔৣ͜͡҉
+*</u>
 </p>
 <p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/zhLzPxj/20231029-111037.png" alt="20231029-111037" border="0"></a>"
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Nadun+MD+whatsapp+Bot" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Cyber+gost+MD+whatsapp+Bot" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnadun-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/darkmakerofc?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-MD-V2?color=yellow&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD-V2?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Nadunsl?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/Nadunsl/Cyber-gost-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nadunsl/Cyber-gost-MD/?color=white&style=flat-square"></a>
+<a href="https://github.com/Nadunsl/Cyber-gost-MD//network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nadunsl/Cyber-gost-MD/?color=yellow&style=flat-square"></a>
+<a href="https://github.com/Nadunsl/Cyber-gost-MD//watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nadunsl/Cyber-gost-MD/?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Nadunsl/Cyber-gost-MD//"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nadunsl/Cyber-gost-MD//%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Nadunsl/Cyber-gost-MD//graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 # 
