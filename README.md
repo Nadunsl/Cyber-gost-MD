@@ -50,18 +50,6 @@ Queen elisa whatsapp bot is,
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
-[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
-
-[`Deploy on Koyeb`](https://app.koyeb.com/)
-
-[`Deploy on Mogenius`](https://studio.mogenius.com/)
-
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
-
-[`Deploy on Replit`](https://replit.com)
-
-[`Deploy on Uffizzi`](https://www.uffizzi.com/)
-</details>
 
 ## [`Deploy කරන්න දන්නෙ නැත්තම් ගෘප් එකට ජොයින් වෙන්න´]
   ##* [Nadun MD Whatsapp BOT official group ](https://chat.whatsapp.com/K0QjxaWwRdFCByYMYW9rxi)
@@ -79,7 +67,7 @@ Queen elisa whatsapp bot is,
 3. Uplode creds.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [Watch Videos](http://youtube.com/mrnimaofc)
+
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -126,11 +114,11 @@ THANAKS FOR USNING Cyber gost MD 👻🤖
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/DarkMakerofc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nadunsl/count.svg)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- [thashi 💖]() for Voice ,[slrealtech](https://youtube.com/slrealtech) , [darkalpha](http://github.com/darkalphaxteam) and [isuru]() thanks for helps 💖
+  thanks for helps 💖
 
  ## [ WHATSAPP GROUPS ](https://github.com/DarkMakerofc/groups#README.md)
