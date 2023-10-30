@@ -47,8 +47,6 @@ global.AUTO_REACT = false
 global.ANTI_BADWORD = false
 //⬇️ Kick And Auto Delete Group link Senders ,වෙන ගෘප් වල ලින්ක් දාන අයව ඉවත් කරන්න ඕනි නම් true දාන්න
 global.ANTI_G_LINK = false
-//⬇️ 212 Number block
-global.NUMBER_212_BLOCK = false
 //⬇️ Send Welcome ( true or false ) වෙල්කම් ගූඩ් බායි මැසේජ් යවන්න ඔනි නම් 
 global.SEND_WELCOME = false
 global.SEND_GOODBYE = false
