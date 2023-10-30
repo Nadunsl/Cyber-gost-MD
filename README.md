@@ -94,8 +94,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
-cd Queen-Elisa-Md-V2
+git clone https://github.com/Nadunsl/Cyber-gost-MD
+cd Cyber-gost-MD
 npm install
 npm start
 ```
@@ -115,7 +115,7 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING Cyber gost MD 👻🤖
 
 * [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
