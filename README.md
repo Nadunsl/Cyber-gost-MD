@@ -1,5 +1,7 @@
 # Cyber gost MD
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Cyber+Gost+MD+Whatsap+bot+;Create+by+Mr+Nadun)](https://git.io/typing-svg)
+
 <p align="center"> 
 <u>*ঔৣ͜͡҉
 *𝘾𝙮𝙗𝙚𝙧 𝙜𝙤𝙨𝙩 𝙈𝘿 𝙒𝙃𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 𝚌𝚛𝚎𝚊𝚝𝚎𝚍 𝚋𝚢 𝙼𝚁.𝙽𝚊𝚍𝚞𝚗 *ঔৣ͜͡҉
@@ -23,6 +25,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nadunsl/Cyber-gost-MD//%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Nadunsl/Cyber-gost-MD//graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
+
 
 # 
 
